@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Castvell
+- 👀 I’m interested in Blockchain Tecnology, desentralization, Data Science, economy, entrepreneurship and Machine learning! < 3
+- 🌱 I’m currently learning Data Science in Python, Smart Contracts with Solidity, Frontend in REACT!
+- 💞️ I’m looking to collaborate on Blockchain development!
+- 📫 How to reach me just dm me!
